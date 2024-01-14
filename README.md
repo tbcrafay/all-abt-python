@@ -5,7 +5,7 @@
 
 Anyone learning/reviewing, the basics/ fundamentals of python could take help from here.
 By solving and practicing the problems and exercises, That will be published Here. 
-Practice is the Key for perfection, stay motivated to learn and grow. You'll get there soon!! 
+Practice is the Key for perfection, stay motivated and hungry to learn and grow. Have patience, You'll get there soon!! 
 
 
 <h5>Before starting to learn from these make sure you have learnt fundamental topics in programming in python and are able to :</h5>
