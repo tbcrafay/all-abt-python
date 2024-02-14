@@ -10,7 +10,7 @@ try:
  
 # handles zerodivision exception
 except ZeroDivisionError:
-    print("Can't divide by zero")
+    print("Can't divide by zero") 
 except:
      print("Other Exception")
 finally:

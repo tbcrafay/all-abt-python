@@ -27,6 +27,7 @@ if count > 0:
     average = total / count
     print("Positive numbers:", positiveInteger)
     print("Negative numbers:", negativeInteger)
+    print('count: ',count)
     print("Total:", total)
     print("Average:", average)
 else:

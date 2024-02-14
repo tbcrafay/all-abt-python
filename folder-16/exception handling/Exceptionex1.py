@@ -1,4 +1,4 @@
-a = [1, 2, 3]
+a = [1, 2, 5]
 try:
     print ("Second element = %d" %(a[0]))
  
